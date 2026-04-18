@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/placeholder.png" width="150" height="150" style="border-radius:50%" alt="TiTech Bot Logo"/>
+<img src="https://files.catbox.moe/u7zbat.jpeg" width="150" height="150" style="border-radius:50%" alt="TiTech Bot Logo"/>
 
 # TiTechLabs MD Bot
 
@@ -214,8 +214,6 @@ titechlabs-md-bot/
 MIT License — free to use, modify, and distribute with attribution.
 
 > TiTechLabs MD Bot — 90+ commands · Built with ❤️ by [Muhammad Taha Islam](https://tahaislam.me)
->
-> *Based on [Silva MD Bot](https://github.com/SilvaTechB/silva-md-bot) — MIT License*
 
 ---
 
