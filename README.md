@@ -191,7 +191,7 @@ titechlabs-md-bot/
 [![Website](https://img.shields.io/badge/Website-titechlabs.dev-blue?style=flat-square)](https://titechlabs.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-mttahai-181717?style=flat-square&logo=github)](https://github.com/mttahai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-tahaislam.me-orange?style=flat-square)](https://tahaislam.me)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat-square&logo=fiverr)](https://fiverr.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat-square&logo=fiverr)](https://www.fiverr.com/titechlabs)
 
 ---
 
@@ -205,7 +205,7 @@ titechlabs-md-bot/
 
 ## 🌐 Community
 
-> [![WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/923XXXXXXXXX)
+> [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaH6LJbJJhzSaSQ8ex0h)
 
 ---
 
