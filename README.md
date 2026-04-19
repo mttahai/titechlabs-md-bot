@@ -205,7 +205,7 @@ titechlabs-md-bot/
 
 ## 🌐 Community
 
-> [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaH6LJbJJhzSaSQ8ex0h)
+> [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaH6LJbJJhzSaSQ8ex0h)
 
 ---
 
